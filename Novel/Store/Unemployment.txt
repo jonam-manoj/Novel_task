@@ -1,0 +1,35 @@
+Unemployment, according to the OECD (Organisation for Economic Co-operation and Development), is people above a specified age (usually 15)[2] not being in paid employment or self-employment but currently available for work during the reference period.[3]
+
+Unemployment is measured by the unemployment rate, which is the number of people who are unemployed as a percentage of the labour force (the total number of people employed added to those unemployed).[3]
+
+Unemployment can have many sources, such as the following:
+
+new technologies and inventions
+the status of the economy, which can be influenced by a recession
+competition caused by globalization and international trade
+policies of the government
+regulation and market
+Unemployment and the status of the economy can be influenced by a country through, for example, fiscal policy. Furthermore, the monetary authority of a country, such as the central bank, can influence the availability and cost for money through its monetary policy.
+
+In addition to theories of unemployment, a few categorisations of unemployment are used for more precisely modelling the effects of unemployment within the economic system. Some of the main types of unemployment include structural unemployment, frictional unemployment, cyclical unemployment, involuntary unemployment and classical unemployment.[4] Structural unemployment focuses on foundational problems in the economy and inefficiencies inherent in labor markets, including a mismatch between the supply and demand of laborers with necessary skill sets. Structural arguments emphasize causes and solutions related to disruptive technologies and globalization. Discussions of frictional unemployment focus on voluntary decisions to work based on individuals' valuation of their own work and how that compares to current wage rates added to the time and effort required to find a job. Causes and solutions for frictional unemployment often address job entry threshold and wage rates.
+
+According to the UN's International Labour Organization (ILO), there were 172 million people worldwide (or 5% of the reported global workforce) without work in 2018.[5]
+
+Because of the difficulty in measuring the unemployment rate by, for example, using surveys (as in the United States) or through registered unemployed citizens (as in some European countries), statistical figures such as the employment-to-population ratio might be more suitable for evaluating the status of the workforce and the economy if they were based on people who are registered, for example, as taxpayers.
+
+The state of being without any work yet looking for work is called unemployment. Economists distinguish between various overlapping types of and theories of unemployment, including cyclical or Keynesian unemployment, frictional unemployment, structural unemployment and classical unemployment definition. Some additional types of unemployment that are occasionally mentioned are seasonal unemployment, hardcore unemployment, and hidden unemployment.
+
+Though there have been several definitions of "voluntary" and "involuntary unemployment" in the economics literature, a simple distinction is often applied. Voluntary unemployment is attributed to the individual's decisions, but involuntary unemployment exists because of the socio-economic environment (including the market structure, government intervention, and the level of aggregate demand) in which individuals operate. In these terms, much or most of frictional unemployment is voluntary since it reflects individual search behavior. Voluntary unemployment includes workers who reject low-wage jobs, but involuntary unemployment includes workers fired because of an economic crisis, industrial decline, company bankruptcy, or organizational restructuring.
+
+On the other hand, cyclical unemployment, structural unemployment, and classical unemployment are largely involuntary in nature. However, the existence of structural unemployment may reflect choices made by the unemployed in the past, and classical (natural) unemployment may result from the legislative and economic choices made by labour unions or political parties.
+
+The clearest cases of involuntary unemployment are those with fewer job vacancies than unemployed workers even when wages are allowed to adjust and so even if all vacancies were to be filled, some unemployed workers would still remain. That happens with cyclical unemployment, as macroeconomic forces cause microeconomic unemployment, which can boomerang back and exacerbate those macroeconomic forces.
+
+Real wage unemployment
+Classical, natural, or real-wage unemployment, occurs when real wages for a job are set above the market-clearing level, causing the number of job-seekers to exceed the number of vacancies. On the other hand, most economists argue that as wages fall below a livable wage, many choose to drop out of the labour market and no longer seek employment. That is especially true in countries in which low-income families are supported through public welfare systems. In such cases, wages would have to be high enough to motivate people to choose employment over what they receive through public welfare. Wages below a livable wage are likely to result in lower labor market participation in the above-stated scenario. In addition, consumption of goods and services is the primary driver of increased demand for labor. Higher wages lead to workers having more income available to consume goods and services. Therefore, higher wages increase general consumption and as a result demand for labor increases and unemployment decreases.
+
+Many economists[who?] have argued that unemployment increases with increased governmental regulation. For example, minimum wage laws raise the cost of some low-skill laborers above market equilibrium, resulting in increased unemployment as people who wish to work at the going rate cannot (as the new and higher enforced wage is now greater than the value of their labour).[7][8] Laws restricting layoffs may make businesses less likely to hire in the first place, as hiring becomes more risky.[8]
+
+However, that argument overly simplifies the relationship between wage rates and unemployment by ignoring numerous factors that contribute to unemployment.[9][10][11][12][13] Some, such as Murray Rothbard, suggest that even social taboos can prevent wages from falling to the market-clearing level.[14]
+
+In Out of Work: Unemployment and Government in the Twentieth-Century America, economists Richard Vedder and Lowell Gallaway argue that the empirical record of wages rates, productivity, and unemployment in America validates classical unemployment theory. Their data shows a strong correlation between adjusted real wage and unemployment in the United States from 1900 to 1990. However, they maintain that their data does not take into account exogenous events.
